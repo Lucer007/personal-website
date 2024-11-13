@@ -42,11 +42,11 @@ export const navLinks = [
 
 const talents = [
     {
-        title: "Frontend Developer",
+        title: "Information Technology Developer",
         icon: frontend,
     },
     {
-        title: "Backend Developer",
+        title: "Economic Researcher",
         icon: backend,
     },
     {
@@ -54,7 +54,7 @@ const talents = [
         icon: camera,
     },
     {
-        title: "Content Creator",
+        title: "Podcast Producer",
         icon: creator,
     },
 ];

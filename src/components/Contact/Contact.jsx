@@ -28,10 +28,9 @@ const Contact = () => {
                 "template_b0e1l2b",
                 {
                     from_name: form.name,
-                    to_name: "Sajana",
+                    to_name: "Lijith",
                     from_email: form.email,
-                    to_email: "stormkings969@gmail.com",
-                    // to_email: "lc2015us@gmail.com",
+                    to_email: "lc2015us@gmail.com",
                     message: form.message,
                 },
                 "_I4DP0534xKOIDOvV"
