@@ -120,20 +120,26 @@ const experiences = [
             "while delivering quality work, slowly building and sustaining relationships with the client.",
             "Assisted in marketing and outreach campaign, by contributing to user and group policy \n" +
             "writing.",
-            "Continuously assess the backwards compatibility (i.e., integrating new features into existing technologies) to help the club .",
+            "Continuously assess the backwards compatibility (i.e., integrating new features into existing technologies) to help the club reach a broader audience.",
         ],
     },
     {
-        title: "Operation Supervisor",
-        company_name: "CVS Health",
+        title: "Museum Docent",
+        company_name: "Commonwealth Museum",
         icon: cvs,
         iconBg: "#FFF",
-        date: "June 2020 - April 2022",
+        date: "August 2023 - present",
         points: [
-            "Oversaw operations to ensure the financial integrity of the store was maintained daily.",
-            "Proactively evaluated staffing, inventory, and customer satisfaction for enhanced and streamlined operations.",
-            "Problem solved (as needed) with the team to address customer issues and complaints according to company policies.",
-            "Encouraged team bonding and listened to employees on shift to align personal expectations with company objectives.",
+            "Managed and led daily tours focusing on pivotal American historical documents, ensuring \n" +
+            "information is accessible and engaging for all age groups.",
+            "Designed and developed educational programs and interactive exhibits for school groups, \n" +
+            "enhancing their understanding of American history in ways that encourage curiosity.",
+            "Proactively conducted in-depth research and analysis on the Declaration of \n" +
+            "Independence, the Charter of 1691, the Massachusetts Bay Colony Charter, the oldest \n" +
+            "constitution of Massachusetts, and the Bill of Rights to provide accurate and detailed \n" +
+            "tours.",
+            "Trained and mentored new docents, sharing best practices for effective tour delivery and \n" +
+            "visitor engagement.",
         ],
     },
     {
