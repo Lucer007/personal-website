@@ -4,11 +4,11 @@ import {
     About,
     Contact,
     Experience,
-    Feedbacks,
+    // Feedbacks,
     Hero,
     Navbar,
     StarsCanvas,
-    Works,
+    // Works,
 } from "./components";
 
 const App = () => {
