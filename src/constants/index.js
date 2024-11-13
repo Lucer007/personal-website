@@ -108,16 +108,19 @@ const technologies = [
 
 const experiences = [
     {
-        title: "Software Developer",
-        company_name: "General Motors",
+        title: "IT Consultant / Auditor",
+        company_name: "Hyannis Rotary Club",
         icon: gm,
         iconBg: "#00478C",
-        date: "May 2022 - Present",
+        date: "July 2024 - Present",
         points: [
-            "Work cross-functionally to transform the company infrastructure by designing and implementing new UI components for various company applications.",
-            "Enhance crucial assurance by validating access and authentication APIs in the environment to minimize unwanted access and secure protection against potential bad actors.",
-            "Review, evaluate, and authorize code modifications submitted by team developers.",
-            "Continuously assess the backwards compatibility (i.e., integrating new features into existing technologies) to help understand the decision to drive system transformation.",
+            "Strategized a revamp of the existing system to establish a new user interface to sunset the \n" +
+            "archaic website design.",
+            "Optimized and maximized efficiency and increased exposure to Rotary requirements \n" +
+            "while delivering quality work, slowly building and sustaining relationships with the client.",
+            "Assisted in marketing and outreach campaign, by contributing to user and group policy \n" +
+            "writing.",
+            "Continuously assess the backwards compatibility (i.e., integrating new features into existing technologies) to help the club .",
         ],
     },
     {

@@ -18,8 +18,8 @@ const About = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
             >
-                I&apos;m a double major who&apos;s always looking for
-                opportunities to apply my skills and knowledge to real-world
+                I am a double major in Economic and Information Technology with a concentration in Business Intelligence
+                and I am always looking for opportunities to apply my skills and knowledge to real-world
                 challenges and contribute to the development of the industry.
             </motion.p>
 

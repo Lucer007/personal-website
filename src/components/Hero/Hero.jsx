@@ -20,7 +20,7 @@ const Hero = () => {
                         <span className="text-[#915eff]">Lijith</span>
                     </h1>
                     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-                        A double major in Economic and Information Technology with a concentration in Business Intelligence
+                        A pleasure to meet you!
                     </p>
                 </div>
             </div>
