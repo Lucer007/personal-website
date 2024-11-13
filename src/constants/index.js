@@ -23,6 +23,7 @@ import {
     typescript,
     umass_boston,
     verbotics_ai,
+    cccc,
 } from "../assets";
 
 export const navLinks = [
@@ -111,7 +112,7 @@ const experiences = [
         title: "IT Consultant / Auditor",
         company_name: "Hyannis Rotary Club",
         icon: gm,
-        iconBg: "#00478C",
+        iconBg: "#ffffff",
         date: "July 2024 - Present",
         points: [
             "Strategized a revamp of the existing system to establish a new user interface to sunset the \n" +
@@ -143,11 +144,11 @@ const experiences = [
         ],
     },
     {
-        title: "Project Leader & Frontend Developer",
-        company_name: "Vebortics AI",
+        title: "Postal Worker",
+        company_name: "United State Postal Service",
         icon: verbotics_ai,
-        iconBg: "#0693E3",
-        date: "January 2020 - May 2020",
+        iconBg: "#ffffff",
+        date: "January 2020 - May 2021",
         points: [
             "Responsible for presenting a proposal to modernize the IT infrastructure supporting medical usage metrics.",
             "Collaborated with the team and client for a needs assessment and walkthrough required access controls when updating the system to decrease inefficiency.",
@@ -156,29 +157,31 @@ const experiences = [
         ],
     },
     {
-        title: "Project Leader & Web Designer",
-        company_name: "University of Massachusetts Boston",
-        icon: umass_boston,
-        iconBg: "#005A8C",
-        date: "September 2019 - December 2019",
+        title: "President of Rotaract Club",
+        company_name: "",
+        icon: cccc,
+        iconBg: "#fff",
+        date: "September 2019 - March 2020",
         points: [
-            "Researched and designed an Android Application called “Study Guide” as part of a class project.",
-            "Implemented a login, logout, signup and forgot password system within the application",
-            "Using Firebase Database, multiple users can create and manage their own data.",
-            "Assigned tasks to other members.",
+            "Led club operations: Directed a team of board members and oversaw weekly meetings, setting agendas, and guiding strategic planning to achieve community-focused goals.\n",
+            "Strategic Planning & Project Oversight: Developed and executed a balanced calendar of service projects, fundraising events, and professional development activities aligned with Rotaract mission.\n",
+            "Community & Member Engagement: Fostered a welcoming club culture, boosting membership engagement and expanding partnerships with local Rotary clubs and organizations.\n",
+            "Financial Stewardship: Managed club budget and fundraising initiatives, working with the Treasurer to ensure fiscal responsibility and successful project funding.\n",
+            "Effective Transition Planning: Documented achievements and best practices, mentoring the Vice President for a seamless leadership transition.",
         ],
     },
     {
-        title: "Project Leader & Web Designer",
-        company_name: "University of Massachusetts Boston",
-        icon: umass_boston,
-        iconBg: "#005A8C",
-        date: "January 2019 - May 2019",
+        title: "Vice-President of Rotaract Club",
+        company_name: "",
+        icon: cccc,
+        iconBg: "#fff",
+        date: "September 2018 - May 2019",
         points: [
-            "Researched and designed a fully functioning pizza website that is linked to a database using MySQL and JavaScript.",
-            "Using MySQL and JavaScript we created a database to store each user choices.",
-            "Created multiple user selections.",
-            "Assigned tasks to other members.",
+            "Supported Strategic Leadership: Collaborated with the President in developing and implementing club goals, agendas, and initiatives, contributing to an increase in member engagement and community outreach.\n",
+            "Event & Project Coordination: Spearheaded the planning and execution of service projects and professional development events, ensuring alignment with club objectives and Rotaract values.\n",
+            "Leadership Development & Member Engagement: Fostered an inclusive environment, actively engaging members and encouraging involvement in leadership opportunities and community service.\n",
+            "Financial & Administrative Support: Assisted in budget management and logistical planning for events, ensuring efficient use of resources and smooth operations.\n",
+            "Transition & Continuity Planning: Prepared to step into the President role by mentoring new board members and documenting club processes, supporting sustainable leadership succession.\n",
         ],
     },
 ];
