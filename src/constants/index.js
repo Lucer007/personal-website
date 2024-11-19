@@ -206,12 +206,12 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Interactive Credit Card",
+        name: "Upgrade proposal for computer science at UMass Boston",
         description:
-            "This is a solution to the Interactive card details form challenge on Frontend Mentor which is meant to challenge and help you improve your coding skills by building realistic projects.",
+            " This was a proposal to show the need and benefits of upgrading one of the IT lab with a budget",
         tags: [
             {
-                name: "react",
+                name: "Presentation",
                 color: "blue-text-gradient",
             },
             // {
@@ -219,13 +219,13 @@ const projects = [
             //     color: "green-text-gradient",
             // },
             {
-                name: "scss",
+                name: "Documentation",
                 color: "pink-text-gradient",
             },
         ],
         image: credit_card,
         source_code_link:
-            "https://github.com/StormKing969/interactive-card-details",
+            "https://liveumb.sharepoint.com/:p:/s/IT425193/EVlHezGXTpRLuOJgXDFr1PwBYvJOfA3wAyjiU18KdAmcGw?email=lc2015us%40gmail.com&e=BOzMhy",
     },
     {
         name: "3D Display of The Earth and Planes",

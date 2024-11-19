@@ -4,11 +4,11 @@ import {
     About,
     Contact,
     Experience,
-    // Feedbacks,
+    Feedbacks,
     Hero,
     Navbar,
     StarsCanvas,
-    // Works,
+    Works,
 } from "./components";
 
 const App = () => {
@@ -16,18 +16,32 @@ const App = () => {
         <BrowserRouter>
             <div className="relative z-0 bg-primary">
                 <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
-                    <Navbar />
-                    <Hero />
+                    <Navbar/>
+                    <Hero/>
                 </div>
-                <About />
-                <Experience />
-                {/*<Tech />*/}
-                {/*<Works />*/}
-                {/*<Feedbacks />*/}
-
                 <div className="relative z-0">
-                    <Contact />
-                    <StarsCanvas />
+                    <About/>
+                    <StarsCanvas/>
+                </div>
+                <div className="relative z-0">
+                    <Experience/>
+                    <StarsCanvas/>
+                </div>
+                <div className="relative z-0">
+                    {/*<Tech />*/}
+                    <StarsCanvas/>
+                </div>
+                <div className="relative z-0">
+                    <Works/>
+                    <StarsCanvas/>
+                </div>
+                <div className="relative z-0">
+                    <Feedbacks/>
+                    <StarsCanvas/>
+                </div>
+                <div className="relative z-0">
+                    <Contact/>
+                    <StarsCanvas/>
                 </div>
             </div>
         </BrowserRouter>
