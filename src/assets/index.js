@@ -23,6 +23,9 @@ import logo from "./personal_logo/logo.svg";
 import credit_card from "./project_imgs/credit_card.png";
 import earth_planes from "./project_imgs/earth_planes.png";
 import ip_tracker from "./project_imgs/ip_tracker.png";
+import SaveASlot from "./project_imgs/SaveASlot.png";
+import Presentation425 from "./project_imgs/Presentation425.png";
+import IT461 from "./project_imgs/IT461.png";
 
 // From tech_img
 import css from "./tech_imgs/css.png";
@@ -67,6 +70,9 @@ export {
     credit_card,
     earth_planes,
     ip_tracker,
+    SaveASlot,
+    Presentation425,
+    IT461,
 
     // tech
     css,

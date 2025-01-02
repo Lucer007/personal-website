@@ -2,16 +2,18 @@ import {
     backend,
     camera,
     creator,
-    credit_card,
+    SaveASlot,
     css,
     cvs,
-    earth_planes,
+   // earth_planes,
+    Presentation425,
     figma,
     frontend,
     git,
     gm,
     html,
-    ip_tracker,
+   // ip_tracker,
+    IT461,
     javascript,
     mongodb,
     nodejs,
@@ -21,7 +23,7 @@ import {
     testimonial02,
     three_js,
     typescript,
-    umass_boston,
+    /*umass_boston,*/
     verbotics_ai,
     cccc,
 } from "../assets";
@@ -206,38 +208,38 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Upgrade proposal for computer science at UMass Boston",
+        name: "Save A Slot",
         description:
-            " This was a proposal to show the need and benefits of upgrading one of the IT lab with a budget",
+            "Our goal is to save you time and hassle by giving you the power to reserve a parking spot ahead of time.",
         tags: [
             {
-                name: "Presentation",
+                name: "HMTL",
                 color: "blue-text-gradient",
             },
-            // {
-            //     name: "mongodb",
-            //     color: "green-text-gradient",
-            // },
+             {
+                 name: "C++",
+                 color: "green-text-gradient",
+             },
             {
-                name: "Documentation",
+                name: "REACT",
                 color: "pink-text-gradient",
             },
         ],
-        image: credit_card,
+        image: SaveASlot,
         source_code_link:
-            "https://liveumb.sharepoint.com/:p:/s/IT425193/EVlHezGXTpRLuOJgXDFr1PwBYvJOfA3wAyjiU18KdAmcGw?email=lc2015us%40gmail.com&e=BOzMhy",
+            "https://saveaslot.netlify.app/",
     },
     {
-        name: "3D Display of The Earth and Planes",
+        name: "Upgrade proposal for computer science at UMass Boston",
         description:
-            "The web application was created following a guide which is meant to be used as an introduction to 3D web designing.",
+           "This was a proposal to show the need and benefits of upgrading one of the IT lab with a budget",
         tags: [
             {
-                name: "react",
+                name: "Documentation",
                 color: "blue-text-gradient",
             },
             {
-                name: "threejs",
+                name: "Presentation",
                 color: "green-text-gradient",
             },
             // {
@@ -245,29 +247,29 @@ const projects = [
             //     color: "pink-text-gradient",
             // },
         ],
-        image: earth_planes,
-        source_code_link: "https://github.com/StormKing969/earth-and-planes",
+        image: Presentation425,
+        source_code_link: "https://liveumb.sharepoint.com/:p:/s/IT425193/EVlHezGXTpRLuOJgXDFr1PwBYvJOfA3wAyjiU18KdAmcGw",
     },
     {
-        name: "IP Address Tracker",
+        name: "Modernizing the IT infrastructure",
         description:
-            "This is a solution to the IP address tracker challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+            "Local car dealership Analytics & Modernizing the IT infrastructure",
         tags: [
             {
-                name: "nextjs",
+                name: "Presentation",
                 color: "blue-text-gradient",
             },
             {
-                name: "javascript",
+                name: "Documentation",
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
-                color: "pink-text-gradient",
+                // name: "scss",
+                // color: "pink-text-gradient",
             },
         ],
-        image: ip_tracker,
-        source_code_link: "https://github.com/StormKing969/ip-address-tracker",
+        image: IT461,
+        source_code_link: "",
     },
 ];
 

@@ -8,7 +8,7 @@ import {
     Hero,
     Navbar,
     StarsCanvas,
-   // Works,
+    Works,
 } from "./components";
 
 const App = () => {
@@ -32,7 +32,7 @@ const App = () => {
                     <StarsCanvas/>
                 </div>
                 <div className="relative z-0">
-                  {/*  <Works/> */}
+                    <Works/>
                     <StarsCanvas/>
                 </div>
                 <div className="relative z-0">
