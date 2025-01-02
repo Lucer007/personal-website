@@ -263,10 +263,10 @@ const projects = [
                 name: "Documentation",
                 color: "green-text-gradient",
             },
-            {
+            //{
                 // name: "scss",
                 // color: "pink-text-gradient",
-            },
+            //},
         ],
         image: IT461,
         source_code_link: "",
