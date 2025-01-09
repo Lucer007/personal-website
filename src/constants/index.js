@@ -26,6 +26,7 @@ import {
     /*umass_boston,*/
     verbotics_ai,
     cccc,
+    save,
 } from "../assets";
 
 export const navLinks = [
@@ -115,11 +116,25 @@ const technologies = [
 
 const experiences = [
     {
+        title: "Team lead",
+        company_name: "Save A Slot",
+        icon: save,
+        iconBg: "#ffffff",
+        date: "September 2024 - December 2024",
+        points: [
+            "Designed a service that creates parking reservation system built to make parking on campus stress-free.\n",
+            "Added the ability to create an account through the website \n",
+            "Finalized the dashboard experience making it user-friendly \n",
+            "Ensured account security through Google Firebase \n.",
+            "Assisted in marketing and outreach campaign, by contributing to user and group policy \n"
+        ],
+    },
+    {
         title: "IT Consultant / Auditor",
         company_name: "Hyannis Rotary Club",
         icon: gm,
         iconBg: "#ffffff",
-        date: "July 2024 - Present",
+        date: "July 2024 - December 2024",
         points: [
             "Strategized a revamp of the existing system to establish a new user interface to sunset the \n" +
             "archaic website design.",
@@ -168,6 +183,34 @@ const experiences = [
         icon: cccc,
         iconBg: "#fff",
         date: "September 2019 - March 2020",
+        points: [
+            "Led club operations: Directed a team of board members and oversaw weekly meetings, setting agendas, and guiding strategic planning to achieve community-focused goals.\n",
+            "Strategic Planning & Project Oversight: Developed and executed a balanced calendar of service projects, fundraising events, and professional development activities aligned with Rotaract mission.\n",
+            "Community & Member Engagement: Fostered a welcoming club culture, boosting membership engagement and expanding partnerships with local Rotary clubs and organizations.\n",
+            "Financial Stewardship: Managed club budget and fundraising initiatives, working with the Treasurer to ensure fiscal responsibility and successful project funding.\n",
+            "Effective Transition Planning: Documented achievements and best practices, mentoring the Vice President for a seamless leadership transition.",
+        ],
+    },
+    {
+        title: "Vice-President of Economic Club",
+        company_name: "",
+        icon: cccc,
+        iconBg: "#fff",
+        date: "September 2018 - May 2019",
+        points: [
+            "Supported Strategic Leadership: Collaborated with the President in developing and implementing club goals, agendas, and initiatives, contributing to an increase in member engagement and community outreach.\n",
+            "Event & Project Coordination: Spearheaded the planning and execution of service projects and professional development events, ensuring alignment with club objectives and Rotaract values.\n",
+            "Leadership Development & Member Engagement: Fostered an inclusive environment, actively engaging members and encouraging involvement in leadership opportunities and community service.\n",
+            "Financial & Administrative Support: Assisted in budget management and logistical planning for events, ensuring efficient use of resources and smooth operations.\n",
+            "Transition & Continuity Planning: Prepared to step into the President role by mentoring new board members and documenting club processes, supporting sustainable leadership succession.\n",
+        ],
+    },
+    {
+        title: "President of Economic Club",
+        company_name: "",
+        icon: cccc,
+        iconBg: "#fff",
+        date: "September 2018 - May 2019",
         points: [
             "Led club operations: Directed a team of board members and oversaw weekly meetings, setting agendas, and guiding strategic planning to achieve community-focused goals.\n",
             "Strategic Planning & Project Oversight: Developed and executed a balanced calendar of service projects, fundraising events, and professional development activities aligned with Rotaract mission.\n",

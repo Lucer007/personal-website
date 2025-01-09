@@ -4,6 +4,7 @@ import gm from "./company_logo/gm.png";
 import umass_boston from "./company_logo/umass_boston.svg";
 import verbotics_ai from "./company_logo/verbotics_ai.svg";
 import cccc from "./company_logo/cccc.jpg";
+import save from "./company_logo/save.png";
 
 // From miscellaneous
 import backend from "./misc/backend.png";
@@ -51,6 +52,7 @@ export {
     umass_boston,
     verbotics_ai,
     cccc,
+    save,
 
     // misc
     backend,
